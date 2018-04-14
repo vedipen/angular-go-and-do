@@ -1,4 +1,6 @@
-# AngularTourOfHeroes
+# Go and Do 
+
+An Angular 5 app which can be used to take care of items. Made in Angular 5.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
